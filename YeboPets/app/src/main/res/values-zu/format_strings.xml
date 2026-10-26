@@ -1,0 +1,13 @@
+<resources>
+<string name="fmt_0">Isicelo sika-%1$s</string>
+<string name="fmt_1">Ukunakekelwa kwangemva kokwamukela kuka-%1$s</string>
+<string name="fmt_2">Qhathanisa okukhethiwe (%1$s/3)</string>
+<string name="fmt_3">Kuze kufike ku-%1$s km</string>
+<string name="fmt_4">Ezingu-%1$s zidinga ukunakwa</string>
+<string name="fmt_5">Susa u-%1$s ezilwaneni ezigciniwe</string>
+<string name="fmt_6">Gcina u-%1$s</string>
+<string name="fmt_7">Ukufanelana: %1$s%%</string>
+<string name="fmt_8">Unyaka ongu-%1$s</string>
+<string name="fmt_9">Iminyaka engu-%1$s</string>
+<string name="fmt_10">Izinyanga ezingu-%1$s</string>
+</resources>

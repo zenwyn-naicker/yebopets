@@ -1,0 +1,18 @@
+<resources>
+    <string name="workspace_overview">Ukubuka konke</string>
+    <string name="workspace_animals">Izilwane</string>
+    <string name="workspace_all">Konke</string>
+    <string name="workspace_needs_review">Kudinga ukubuyekezwa</string>
+    <string name="workspace_other">Ezinye izicelo</string>
+    <string name="workspace_other_filter">Ezinye</string>
+    <string name="workspace_search">Sesha ngesilwane noma inombolo yesicelo</string>
+    <string name="workspace_no_matches">Azikho izicelo ezihambisana nosesho lwakho.</string>
+    <string name="workspace_no_applications">Azikho izicelo ezingaboniswa.</string>
+    <string name="workspace_review_count">Kudinga ukubuyekezwa: %1$d</string>
+    <string name="workspace_reference">Inombolo yesicelo: %1$s</string>
+    <string name="workspace_signin_intro">Ngena ukuze uthole umngane wakho omusha noma uphathe indawo yokunakekela izilwane.</string>
+    <string name="workspace_choose_workspace">Khetha indawo yakho yokusebenza</string>
+    <string name="workspace_workspace_help">Khetha indlela ofuna ukusebenzisa ngayo i-YeboPets.</string>
+    <string name="workspace_switch_workspace">Shintsha indawo yokusebenza</string>
+    <string name="workspace_access_unavailable">Ukufinyelela i-akhawunti akutholakali. Sicela ungene futhi.</string>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="dyn_0">Apply for %1$s</string>
+    <string name="dyn_1">Why would %1$s suit your home?</string>
+    <string name="dyn_2">Search radius: %1$s km</string>
+    <string name="dyn_3">Submitted %1$s</string>
+    <string name="dyn_4">Last updated %1$s</string>
+    <string name="dyn_5">Shelter note: %1$s</string>
+    <string name="dyn_6">Next follow-up %1$s</string>
+    <string name="dyn_7">Approximate distance: %1$s km</string>
+    <string name="dyn_8">How is %1$s settling in?</string>
+    <string name="dyn_9">%1$s is home</string>
+</resources>

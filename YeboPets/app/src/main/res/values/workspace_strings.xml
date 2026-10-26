@@ -1,0 +1,18 @@
+<resources>
+    <string name="workspace_overview">Overview</string>
+    <string name="workspace_animals">Animals</string>
+    <string name="workspace_all">All</string>
+    <string name="workspace_needs_review">Needs review</string>
+    <string name="workspace_other">Other applications</string>
+    <string name="workspace_other_filter">Other</string>
+    <string name="workspace_search">Search by pet or reference</string>
+    <string name="workspace_no_matches">No applications match your search.</string>
+    <string name="workspace_no_applications">No applications to show.</string>
+    <string name="workspace_review_count">Needs review: %1$d</string>
+    <string name="workspace_reference">Reference: %1$s</string>
+    <string name="workspace_signin_intro">Sign in to find your next companion or manage your shelter.</string>
+    <string name="workspace_choose_workspace">Choose your workspace</string>
+    <string name="workspace_workspace_help">Choose how you want to use YeboPets.</string>
+    <string name="workspace_switch_workspace">Switch workspace</string>
+    <string name="workspace_access_unavailable">Account access is unavailable. Please sign in again.</string>
+</resources>

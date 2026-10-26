@@ -1,0 +1,26 @@
+<resources>
+<string name="extra_0">Shelter account verified</string>
+<string name="extra_1">Adoption applications</string>
+<string name="extra_2">Review new applications and move adoptions forward.</string>
+<string name="extra_3">Add, edit and publish pet profiles.</string>
+<string name="extra_4">New applications</string>
+<string name="extra_5">Published pets</string>
+<string name="extra_6">Ready to adopt</string>
+<string name="extra_7">Manage animals</string>
+<string name="extra_8">Review applications</string>
+<string name="extra_9">Application tracking</string>
+<string name="extra_10">Aftercare</string>
+<string name="extra_11">Collection</string>
+<string name="extra_12">Vaccinations</string>
+<string name="extra_13">Follow-up</string>
+<string name="extra_14">Your profile is ready for matching and applications.</string>
+<string name="extra_15">Complete your profile before applying for a pet.</string>
+<string name="extra_16">Language, notifications and account preferences</string>
+<string name="extra_17">Your saved pets and comparison shortlist</string>
+<string name="extra_18">This request conflicts with current data. Check your profile and existing applications.</string>
+<string name="extra_19">Motivation must be 20–1000 characters.</string>
+<string name="extra_20">Confirm both care commitments.</string>
+<string name="extra_21">Update must be 10–1000 characters.</string>
+<string name="extra_22">Open this pet online once before saving offline.</string>
+<string name="extra_23">Offline: showing cached pets. Availability and distance may have changed.</string>
+</resources>

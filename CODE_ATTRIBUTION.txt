@@ -1,0 +1,270 @@
+/*Group Name: ETC ETC*/
+
+/*Group Members:
+Khayden Chetty
+Rivaan Kawulesar
+Stephane Nsengiyumva
+Zenwyn Naicker
+*/
+
+/*Code Attribution: */
+
+/**************************************************************************************************************
+ * Author: Android Developers
+ * Date: 2026
+ * Title: State and Jetpack Compose
+ * Type: [Source Code]
+ * Available at: <https://developer.android.com/develop/ui/compose/state> [Accessed 9 September 2026]
+ **************************************************************************************************************/
+/**************************************************************************************************************
+ * Author: Android Developers
+ * Date: 2026
+ * Title: State holders and UI state
+ * Type: [Source Code]
+ * Available at: <https://developer.android.com/topic/architecture/ui-layer/stateholders> [Accessed 9 September 2026]
+ **************************************************************************************************************/
+/**************************************************************************************************************
+ * Author: Android Developers
+ * Date: 2026
+ * Title: BackHandler
+ * Type: [Source Code]
+ * Available at: <https://developer.android.com/reference/kotlin/androidx/activity/compose/package-summary#BackHandler(kotlin.Boolean,kotlin.Function0)> [Accessed 9 September 2026]
+ **************************************************************************************************************/
+/**************************************************************************************************************
+ * Author: Android Developers
+ * Date: 2026
+ * Title: Get data from the internet
+ * Type: [Source Code]
+ * Available at: <https://developer.android.com/codelabs/basic-android-kotlin-compose-getting-data-internet> [Accessed 9 September 2026]
+ **************************************************************************************************************/
+/**************************************************************************************************************
+ * Author: Square, Inc.
+ * Date: 2026
+ * Title: Retrofit
+ * Type: [Source Code]
+ * Available at: <https://square.github.io/retrofit/> [Accessed 9 September 2026]
+ **************************************************************************************************************/
+/**************************************************************************************************************
+ * Author: Square, Inc.
+ * Date: 2026
+ * Title: OkHttp
+ * Type: [Source Code]
+ * Available at: <https://github.com/square/okhttp> [Accessed 9 September 2026]
+ **************************************************************************************************************/
+/**************************************************************************************************************
+ * Author: Firebase
+ * Date: 2026
+ * Title: Add Firebase to your Android project
+ * Type: [Source Code]
+ * Available at: <https://firebase.google.com/docs/android/setup> [Accessed 9 September 2026]
+ **************************************************************************************************************/
+/**************************************************************************************************************
+ * Author: Android Developers
+ * Date: 2026
+ * Title: Implement Sign in with Google
+ * Type: [Source Code]
+ * Available at: <https://developer.android.com/identity/sign-in/credential-manager-siwg-implementation> [Accessed 9 September 2026]
+ **************************************************************************************************************/
+/**************************************************************************************************************
+ * Author: Firebase
+ * Date: 2026
+ * Title: Authenticate with Google on Android
+ * Type: [Source Code]
+ * Available at: <https://firebase.google.com/docs/auth/android/google-signin> [Accessed 9 September 2026]
+ **************************************************************************************************************/
+/**************************************************************************************************************
+ * Author: Firebase
+ * Date: 2026
+ * Title: Verify ID Tokens
+ * Type: [Source Code]
+ * Available at: <https://firebase.google.com/docs/auth/admin/verify-id-tokens> [Accessed 9 September 2026]
+ **************************************************************************************************************/
+/**************************************************************************************************************
+ * Author: Google Cloud
+ * Date: 2026
+ * Title: Class CredentialFactory (1.73.0)
+ * Type: [Source Code]
+ * Available at: <https://docs.cloud.google.com/dotnet/docs/reference/Google.Apis/latest/Google.Apis.Auth.OAuth2.CredentialFactory> [Accessed 9 September 2026]
+ **************************************************************************************************************/
+/**************************************************************************************************************
+ * Author: Microsoft
+ * Date: 2026
+ * Title: Create web APIs with ASP.NET Core
+ * Type: [Source Code]
+ * Available at: <https://learn.microsoft.com/aspnet/core/web-api/> [Accessed 9 September 2026]
+ **************************************************************************************************************/
+/**************************************************************************************************************
+ * Author: Microsoft
+ * Date: 2026
+ * Title: Integration tests in ASP.NET Core
+ * Type: [Source Code]
+ * Available at: <https://learn.microsoft.com/aspnet/core/test/integration-tests> [Accessed 9 September 2026]
+ **************************************************************************************************************/
+/**************************************************************************************************************
+ * Author: MongoDB, Inc.
+ * Date: 2026
+ * Title: MongoDB .NET/C# Driver
+ * Type: [Source Code]
+ * Available at: <https://www.mongodb.com/docs/drivers/csharp/current/> [Accessed 9 September 2026]
+ **************************************************************************************************************/
+/**************************************************************************************************************
+ * Author: MongoDB, Inc.
+ * Date: 2026
+ * Title: Update One
+ * Type: [Source Code]
+ * Available at: <https://www.mongodb.com/docs/drivers/csharp/current/crud/update-one/> [Accessed 9 September 2026]
+ **************************************************************************************************************/
+/**************************************************************************************************************
+ * Author: Mongo2Go
+ * Date: 2026
+ * Title: Mongo2Go
+ * Type: [Source Code]
+ * Available at: <https://github.com/Mongo2Go/Mongo2Go> [Accessed 9 September 2026]
+ **************************************************************************************************************/
+/**************************************************************************************************************
+ * Author: GitHub, Inc.
+ * Date: 2026
+ * Title: Building and testing Java with Gradle
+ * Type: [Source Code]
+ * Available at: <https://docs.github.com/actions/tutorials/build-and-test-code/java-with-gradle> [Accessed 9 September 2026]
+ **************************************************************************************************************/
+/**************************************************************************************************************
+ * Author: GitHub, Inc.
+ * Date: 2026
+ * Title: Building and testing .NET
+ * Type: [Source Code]
+ * Available at: <https://docs.github.com/actions/tutorials/build-and-test-code/net> [Accessed 9 September 2026]
+ **************************************************************************************************************/
+/**************************************************************************************************************
+ * Author: Android Developers
+ * Date: 2026
+ * Title: Logcat command-line tool
+ * Type: [Source Code]
+ * Available at: <https://developer.android.com/tools/logcat> [Accessed 9 September 2026]
+ **************************************************************************************************************/
+/**************************************************************************************************************
+ * Author: Microsoft
+ * Date: 2026
+ * Title: Quickstart: Deploy an ASP.NET web app
+ * Type: [Source Code]
+ * Available at: <https://learn.microsoft.com/azure/app-service/quickstart-dotnetcore> [Accessed 9 September 2026]
+ **************************************************************************************************************/
+/**************************************************************************************************************
+ * Author: Microsoft
+ * Date: 2026
+ * Title: Role-based authorization in ASP.NET Core
+ * Type: [Source Code]
+ * Available at: <https://learn.microsoft.com/aspnet/core/security/authorization/roles> [Accessed 9 September 2026]
+ **************************************************************************************************************/
+/**************************************************************************************************************
+ * Author: Android Developers
+ * Date: 2026
+ * Title: Material 3 in Compose
+ * Type: [Source Code]
+ * Available at: <https://developer.android.com/develop/ui/compose/designsystems/material3> [Accessed 9 September 2026]
+ **************************************************************************************************************/
+/**************************************************************************************************************
+ * Author: Android Developers
+ * Date: 2026
+ * Title: Room releases and annotation processor setup
+ * Type: [Source Code]
+ * Available at: <https://developer.android.com/jetpack/androidx/releases/room> [Accessed 22 October 2026]
+ **************************************************************************************************************/
+/**************************************************************************************************************
+ * Author: Android Developers
+ * Date: 2026
+ * Title: Offline-first data layer
+ * Type: [Source Code]
+ * Available at: <https://developer.android.com/topic/architecture/data-layer/offline-first> [Accessed 22 October 2026]
+ **************************************************************************************************************/
+/**************************************************************************************************************
+ * Author: Android Developers
+ * Date: 2026
+ * Title: Manage WorkManager work
+ * Type: [Source Code]
+ * Available at: <https://developer.android.com/develop/background-work/background-tasks/persistent/how-to/manage-work> [Accessed 22 October 2026]
+ **************************************************************************************************************/
+/**************************************************************************************************************
+ * Author: Android Developers
+ * Date: 2026
+ * Title: Biometric authentication
+ * Type: [Source Code]
+ * Available at: <https://developer.android.com/identity/sign-in/biometric-auth> [Accessed 22 October 2026]
+ **************************************************************************************************************/
+/**************************************************************************************************************
+ * Author: Android Developers
+ * Date: 2026
+ * Title: Per-app language preferences
+ * Type: [Source Code]
+ * Available at: <https://developer.android.com/guide/topics/resources/app-languages> [Accessed 22 October 2026]
+ **************************************************************************************************************/
+/**************************************************************************************************************
+ * Author: Firebase
+ * Date: 2026
+ * Title: Android Cloud Messaging setup
+ * Type: [Source Code]
+ * Available at: <https://firebase.google.com/docs/cloud-messaging/android/get-started> [Accessed 22 October 2026]
+ **************************************************************************************************************/
+/**************************************************************************************************************
+ * Author: Firebase
+ * Date: 2026
+ * Title: FirebaseMessaging reference
+ * Type: [Source Code]
+ * Available at: <https://firebase.google.com/docs/reference/android/com/google/firebase/messaging/FirebaseMessaging> [Accessed 22 October 2026]
+ **************************************************************************************************************/
+/**************************************************************************************************************
+ * Author: Firebase
+ * Date: 2026
+ * Title: Admin SDK message sending
+ * Type: [Source Code]
+ * Available at: <https://firebase.google.com/docs/cloud-messaging/send/admin-sdk> [Accessed 22 October 2026]
+ **************************************************************************************************************/
+/**************************************************************************************************************
+ * Author: Microsoft
+ * Date: 2026
+ * Title: Upload a Blob with .NET
+ * Type: [Source Code]
+ * Available at: <https://learn.microsoft.com/azure/storage/blobs/storage-blob-upload> [Accessed 22 October 2026]
+ **************************************************************************************************************/
+/**************************************************************************************************************
+ * Author: MongoDB, Inc.
+ * Date: 2026
+ * Title: Atomicity and transactions
+ * Type: [Source Code]
+ * Available at: <https://www.mongodb.com/docs/manual/core/write-operations-atomicity/> [Accessed 22 October 2026]
+ **************************************************************************************************************/
+/**************************************************************************************************************
+ * Author: Android Developers
+ * Date: 2026
+ * Title: Sign your app
+ * Type: [Source Code]
+ * Available at: <https://developer.android.com/studio/publish/app-signing> [Accessed 22 October 2026]
+ **************************************************************************************************************/
+/**************************************************************************************************************
+ * Author: MongoDB, Inc.
+ * Date: 2026
+ * Title: Transactions in the .NET/C# Driver
+ * Type: [Source Code]
+ * Available at: <https://www.mongodb.com/docs/drivers/csharp/current/crud/transactions/> [Accessed 22 October 2026]
+ **************************************************************************************************************/
+/**************************************************************************************************************
+ * Author: MongoDB, Inc.
+ * Date: 2026
+ * Title: Partial indexes and unique constraints
+ * Type: [Source Code]
+ * Available at: <https://www.mongodb.com/docs/manual/core/index-partial/> [Accessed 22 October 2026]
+ **************************************************************************************************************/
+/**************************************************************************************************************
+ * Author: Microsoft
+ * Date: 2026
+ * Title: SkiaSharp image decoding
+ * Type: [Source Code]
+ * Available at: <https://github.com/mono/SkiaSharp> [Accessed 22 October 2026]
+ **************************************************************************************************************/
+/**************************************************************************************************************
+ * Author: Rivaan Kawulesar
+ * Date: 2026
+ * Title: Initial icon design for YeboPets
+ * Type: [Image Asset]
+ * Available at: PROG7314 PART 1 PLANNING AND DESIGN DOCUMENT, page 4, Figure 1 [Accessed 22 October 2026]
+ **************************************************************************************************************/

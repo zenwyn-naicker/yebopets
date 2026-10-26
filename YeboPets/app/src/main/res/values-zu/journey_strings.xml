@@ -1,0 +1,37 @@
+<resources>
+    <string name="journey_appointments">Ukuvakasha okuhleliwe</string>
+    <string name="journey_no_appointments">Akukho ukuvakasha okuhleliwe.</string>
+    <string name="journey_home_check">Ukuhlolwa kwekhaya</string>
+    <string name="journey_scheduled">Kuhleliwe</string>
+    <string name="journey_completed">Kuqediwe</string>
+    <string name="journey_cancelled">Kukhanseliwe</string>
+    <string name="journey_close">Vala</string>
+    <string name="journey_reschedule">Hlela kabusha</string>
+    <string name="journey_date">Usuku lokuvakasha</string>
+    <string name="journey_location">Indawo</string>
+    <string name="journey_address">Ikheli</string>
+    <string name="journey_visit_notes">Amanothi okuvakasha</string>
+    <string name="journey_save">Gcina ukuvakasha</string>
+    <string name="journey_complete">Maka njengokuqediwe</string>
+    <string name="journey_cancel">Khansela ukuvakasha</string>
+    <string name="journey_history">Umlando wokulandelela</string>
+    <string name="journey_no_updates">Azikho izibuyekezo zokulandelela okwamanje.</string>
+    <string name="journey_photo_unavailable">Isithombe asitholakali. Vula futhi uma usuxhumekile.</string>
+    <string name="journey_photo">Isithombe sokulandelela</string>
+    <string name="journey_refresh">Vuselela</string>
+    <string name="journey_new">Ukuvakasha okusha</string>
+    <string name="journey_visit_type">Uhlobo lokuvakasha</string>
+    <string name="journey_saved">Ukuvakasha kugciniwe.</string>
+    <string name="journey_location_required">Faka indawo nekheli.</string>
+    <string name="journey_care_required">Faka imiyalelo yokunakekela.</string>
+    <string name="journey_approved">Isicelo sakho samukelwe</string>
+    <string name="journey_reviewed">Indawo yokunakekela isiqedile ukubuyekeza</string>
+    <string name="journey_more_info">Indawo yokunakekela idinga ulwazi olwengeziwe</string>
+    <string name="journey_with_shelter">Isicelo sakho sisendaweni yokunakekela</string>
+    <string name="journey_finalised">Ukwamukelwa kwesilwane kuqediwe</string>
+    <string name="journey_visit_completed">Ukuvakasha kuqediwe</string>
+    <string name="journey_homecoming">Usuku lokufika kwesilwane sakho ekhaya</string>
+    <string name="journey_share_update">Yabelana ngesibuyekezo senhlalakahle nendawo yokunakekela</string>
+    <string name="journey_routine">Qhubeka nenqubo enconyiwe</string>
+    <string name="journey_shelter_record">Ulwazi olubhalwe yindawo yokunakekela</string>
+</resources>

@@ -1,0 +1,23 @@
+<resources>
+<string name="p3_unlock">Unlock YeboPets</string>
+<string name="p3_biometric_help">Verify your identity to return to your account.</string>
+<string name="p3_google">Use Google sign-in</string>
+<string name="p3_biometric_failed">Verification unavailable or cancelled. Retry or use Google.</string>
+<string name="p3_language">Language</string>
+<string name="p3_notifications">Notifications</string>
+<string name="p3_status_alerts">Application status alerts</string>
+<string name="p3_appointments">Appointment changes and reminders</string>
+<string name="p3_mobile">Allow sync on mobile data</string>
+<string name="p3_biometrics">Biometric access on this device</string>
+<string name="p3_biometric_device">Biometrics must be enabled separately on each device.</string>
+<string name="p3_pending">Queued saved changes</string>
+<string name="p3_sync">Retry sync</string>
+<string name="p3_discard">Discard local data</string>
+<string name="p3_discard_help">This removes this account’s cached pets, unsent saved changes and drafts from this phone. Server data is kept.</string>
+<string name="p3_cancel">Cancel</string>
+<string name="p3_draft_help">Your draft is saved on this phone. Connect to submit it.</string>
+<string name="p3_photo">Choose and upload photo</string>
+<string name="p3_photo_saved">Photo uploaded.</string>
+<string name="p3_photo_failed">Upload failed. Check your connection and select a valid image.</string>
+<string name="p3_photo_create">Save this animal first, then reopen it to upload a photo.</string>
+</resources>

@@ -1,0 +1,23 @@
+<resources>
+<string name="p3_unlock">Vula i-YeboPets</string>
+<string name="p3_biometric_help">Qinisekisa ubuwena ukuze ubuyele ku-akhawunti yakho.</string>
+<string name="p3_google">Sebenzisa ukungena nge-Google</string>
+<string name="p3_biometric_failed">Ukuqinisekisa akutholakali noma kukhanseliwe. Zama futhi noma usebenzise i-Google.</string>
+<string name="p3_language">Ulimi</string>
+<string name="p3_notifications">Izaziso</string>
+<string name="p3_status_alerts">Izaziso zesimo sesicelo</string>
+<string name="p3_appointments">Izinguquko nezikhumbuzo zama-aphoyintimenti</string>
+<string name="p3_mobile">Vumela ukuvumelanisa ngedatha yeselula</string>
+<string name="p3_biometrics">Ukungena ngebhayomethrikhi kule divayisi</string>
+<string name="p3_biometric_device">Ibhayomethrikhi kufanele ivunyelwe kudivayisi ngayinye.</string>
+<string name="p3_pending">Izinguquko ezilinde ukuvumelaniswa</string>
+<string name="p3_sync">Zama ukuvumelanisa futhi</string>
+<string name="p3_discard">Susa idatha yendawo</string>
+<string name="p3_discard_help">Lokhu kususa izilwane ezigcinwe kule foni, izinguquko ezingakathunyelwa nemibhalo esalungiswa. Idatha yeseva iyagcinwa.</string>
+<string name="p3_cancel">Khansela</string>
+<string name="p3_draft_help">Umbhalo wakho ugcinwe kule foni. Xhuma ukuze uwuthumele.</string>
+<string name="p3_photo">Khetha bese ulayisha isithombe</string>
+<string name="p3_photo_saved">Isithombe silayishiwe.</string>
+<string name="p3_photo_failed">Ukulayisha kwehlulekile. Hlola uxhumano bese ukhetha isithombe esivumelekile.</string>
+<string name="p3_photo_create">Gcina lesi silwane kuqala, bese usivula futhi ukuze ulayishe isithombe.</string>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+<string name="dyn_0">Faka isicelo sika-%1$s</string>
+<string name="dyn_1">Kungani u-%1$s efanele ikhaya lakho?</string>
+<string name="dyn_2">Ibanga lokusesha: %1$s km</string>
+<string name="dyn_3">Kuthunyelwe %1$s</string>
+<string name="dyn_4">Kugcine ukubuyekezwa %1$s</string>
+<string name="dyn_5">Inothi lendawo yokunakekela: %1$s</string>
+<string name="dyn_6">Ukulandelela okulandelayo %1$s</string>
+<string name="dyn_7">Ibanga elilinganiselwe: %1$s km</string>
+<string name="dyn_8">U-%1$s ujwayela kanjani ikhaya?</string>
+<string name="dyn_9">U-%1$s usekhaya</string>
+</resources>

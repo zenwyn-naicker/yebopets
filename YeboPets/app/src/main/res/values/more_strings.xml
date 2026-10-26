@@ -1,0 +1,34 @@
+<resources>
+<string name="more_0">Application submitted</string>
+<string name="more_1">Browse pets from Coastal Paws Rescue who could fit your home and lifestyle.</string>
+<string name="more_2">Compare your shortlist</string>
+<string name="more_3">Distances are estimates between town centres.</string>
+<string name="more_4">Final decision</string>
+<string name="more_5">Finalise approved adoption</string>
+<string name="more_6">Find a pet who fits your everyday life.</string>
+<string name="more_7">Meet &amp; greet</string>
+<string name="more_8">No pets match these filters. Try a wider search.</string>
+<string name="more_9">Schedule meet-and-greet</string>
+<string name="more_10">Search &amp; filters</string>
+<string name="more_11">Shelter review</string>
+<string name="more_12">Top matches for you</string>
+<string name="more_13">Update your home and lifestyle details whenever they change.</string>
+<string name="more_14">View</string>
+<string name="more_15">Your profile shapes every match</string>
+<string name="more_16">For you</string>
+<string name="more_17">Dogs</string>
+<string name="more_18">Cats</string>
+<string name="more_19">Open filters</string>
+<string name="more_20">Your matching profile is complete.</string>
+<string name="more_21">Add your household and care details to improve match accuracy.</string>
+<string name="more_22">Home, lifestyle and preferences</string>
+<string name="more_23">Discovery preferences and account</string>
+<string name="more_24">Household</string>
+<string name="more_25">Lifestyle</string>
+<string name="more_26">Experience</string>
+<string name="more_27">The listed household needs match your answers.</string>
+<string name="more_28">A secure yard is required.</string>
+<string name="more_29">This pet is not listed as suitable with children.</string>
+<string name="more_30">This pet is not listed as suitable with other pets.</string>
+<string name="more_31">This is an advisory score, not adoption approval. Household concerns require shelter review.</string>
+</resources>

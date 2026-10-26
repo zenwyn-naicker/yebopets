@@ -1,0 +1,35 @@
+# Android Studio / IntelliJ
+*.iml
+.idea/
+.gradle/
+local.properties
+
+# Build outputs
+**/build/
+**/bin/
+**/obj/
+.externalNativeBuild/
+.cxx/
+captures/
+
+# Environment files
+.env
+.env.*
+
+# Signing keys
+*.jks
+*.keystore
+
+# Firebase / Google credentials
+**/google-services.json
+*service-account*.json
+*serviceAccount*.json
+*firebase-admin*.json
+
+# Test / publish output
+TestResults/
+publish/
+*.zip
+
+# macOS
+.DS_Store

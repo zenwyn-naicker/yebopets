@@ -1,0 +1,26 @@
+<resources>
+<string name="extra_0">I-akhawunti yendawo yokunakekela iqinisekisiwe</string>
+<string name="extra_1">Izicelo zokwamukela izilwane</string>
+<string name="extra_2">Buyekeza izicelo ezintsha bese uqhubekisela ukwamukelwa kwezilwane phambili.</string>
+<string name="extra_3">Faka, hlela bese ushicilela amaphrofayela ezilwane.</string>
+<string name="extra_4">Izicelo ezintsha</string>
+<string name="extra_5">Izilwane ezishicilelwe</string>
+<string name="extra_6">Zikulungele ukwamukelwa</string>
+<string name="extra_7">Phatha izilwane</string>
+<string name="extra_8">Buyekeza izicelo</string>
+<string name="extra_9">Ukulandelela isicelo</string>
+<string name="extra_10">Ukunakekelwa kwangemva kokwamukela</string>
+<string name="extra_11">Ukulanda</string>
+<string name="extra_12">Imigomo</string>
+<string name="extra_13">Ukulandelela</string>
+<string name="extra_14">Iphrofayela yakho isilungele ukufanelanisa nezicelo.</string>
+<string name="extra_15">Qedela iphrofayela yakho ngaphambi kokufaka isicelo sesilwane.</string>
+<string name="extra_16">Ulimi, izaziso nokuncamelayo kwe-akhawunti</string>
+<string name="extra_17">Izilwane zakho ezigciniwe nohlu lokuqhathanisa</string>
+<string name="extra_18">Lesi sicelo siphikisana nedatha ekhona. Hlola iphrofayela yakho nezicelo ezikhona.</string>
+<string name="extra_19">Incazelo kufanele ibe nezinhlamvu ezingu-20 kuya ku-1000.</string>
+<string name="extra_20">Qinisekisa zombili izibopho zokunakekela.</string>
+<string name="extra_21">Isibuyekezo kufanele sibe nezinhlamvu ezingu-10 kuya ku-1000.</string>
+<string name="extra_22">Vula lesi silwane ku-inthanethi kuqala ngaphambi kokusigcina ungaxhunyiwe.</string>
+<string name="extra_23">Awuxhunyiwe: kuboniswa izilwane ezigciniwe. Ukutholakala nebanga kungenzeka kushintshile.</string>
+</resources>

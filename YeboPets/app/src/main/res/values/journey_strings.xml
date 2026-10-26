@@ -1,0 +1,37 @@
+<resources>
+    <string name="journey_appointments">Appointments</string>
+    <string name="journey_no_appointments">No appointments scheduled.</string>
+    <string name="journey_home_check">Home check</string>
+    <string name="journey_scheduled">Scheduled</string>
+    <string name="journey_completed">Completed</string>
+    <string name="journey_cancelled">Cancelled</string>
+    <string name="journey_close">Close</string>
+    <string name="journey_reschedule">Reschedule</string>
+    <string name="journey_date">Appointment date</string>
+    <string name="journey_location">Location</string>
+    <string name="journey_address">Address</string>
+    <string name="journey_visit_notes">Visit notes</string>
+    <string name="journey_save">Save appointment</string>
+    <string name="journey_complete">Mark completed</string>
+    <string name="journey_cancel">Cancel visit</string>
+    <string name="journey_history">Follow-up history</string>
+    <string name="journey_no_updates">No follow-up updates yet.</string>
+    <string name="journey_photo_unavailable">Photograph unavailable. Reopen when connected.</string>
+    <string name="journey_photo">Follow-up photograph</string>
+    <string name="journey_refresh">Refresh</string>
+    <string name="journey_new">New appointment</string>
+    <string name="journey_visit_type">Visit type</string>
+    <string name="journey_saved">Appointment saved.</string>
+    <string name="journey_location_required">Enter a location and address.</string>
+    <string name="journey_care_required">Enter care instructions.</string>
+    <string name="journey_approved">Your application has been approved</string>
+    <string name="journey_reviewed">The shelter has completed its review</string>
+    <string name="journey_more_info">The shelter needs more information</string>
+    <string name="journey_with_shelter">Your application is with the shelter</string>
+    <string name="journey_finalised">Adoption finalised</string>
+    <string name="journey_visit_completed">Visit completed</string>
+    <string name="journey_homecoming">Your pet\'s homecoming date</string>
+    <string name="journey_share_update">Share a wellbeing update with the shelter</string>
+    <string name="journey_routine">Continue the recommended routine</string>
+    <string name="journey_shelter_record">Information recorded by the shelter</string>
+</resources>

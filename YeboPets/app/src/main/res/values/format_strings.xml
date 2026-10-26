@@ -1,0 +1,13 @@
+<resources>
+<string name="fmt_0">%1$s\'s application</string>
+<string name="fmt_1">%1$s\'s aftercare</string>
+<string name="fmt_2">Compare selected (%1$s/3)</string>
+<string name="fmt_3">Up to %1$s km</string>
+<string name="fmt_4">%1$s need attention</string>
+<string name="fmt_5">Remove %1$s from saved pets</string>
+<string name="fmt_6">Save %1$s</string>
+<string name="fmt_7">%1$s%% match</string>
+<string name="fmt_8">%1$s year</string>
+<string name="fmt_9">%1$s years</string>
+<string name="fmt_10">%1$s months</string>
+</resources>
